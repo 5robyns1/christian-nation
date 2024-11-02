@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Israel",
-		"leaderName": "Israel",
-		"adjective": ["israel"],
+		"name": "True-Israel",
+		"leaderName": "Appointed Leader",
+		"adjective": ["israel", "appointedleader", "christnation"],
 		"startBias": ["ForestGH"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Israel, through Christ, you are appointed to lead us into dominion over the Earth, which the Lord our God has promised us dominion over. He, God, will be with you. Glory be to God! (Side note: The player is not God)",
+		"startIntroPart1": "Through Christ, you are appointed to lead us into dominion over the Earth, which the Lord our God has promised us dominion over. He, God, will be with you. Glory be to God! (Side note: The player is not God)",
 		"startIntroPart2": "Peace be with you.",
 		
 		"declaringWar": "Prepare.",
@@ -30,9 +30,7 @@
 		"outerColor": [22,96,224],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Zion","Ur","Nazareth","Jerusalem","Israel","Ashkelon",Bethelem"","Beer-Sheba","Bethshean",
+			"Beirut","Canaan","Cana","Carchemish","Cyprus","Damascus","Ethiopia","Ophir","Petra","Persia","Sinai"]
 	}
 ]
