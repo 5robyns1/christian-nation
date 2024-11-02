@@ -1,5 +1,3 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+# Christian-nation-mod!!
+This is my first mod, so don't expect it to be super good...
+This adds one new civilization and some new pantheons, beliefs, units, buildings, and other things.
