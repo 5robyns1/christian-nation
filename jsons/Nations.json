@@ -9,28 +9,28 @@
 		"startIntroPart1": "Through Christ, you are appointed to lead us into dominion over the Earth, which the Lord our God has promised us dominion over. He, God, will be with you. Glory be to God! (Side note: The player is not God)",
 		"startIntroPart2": "Peace be with you.",
 		
-		"declaringWar": "Prepare.",
-		"attacked": "Repent before it's too late.",
-		"defeated": "May the Holy Spirit have mercy on your soul.",
-		"introduction": "Hello.",
+		"declaringWar": "May you repent before God's wrath comes upon you.",
+		"attacked": "Has the Lord forsaken His people? Nevertheless, I will return to Him and praise Him in the midst of my enemies.",
+		"defeated": ["May you praise the LORD, for He has used you to judge His people.","The Lord has witnessed this, and will hold you accountable."],
+		"introduction": ["Hello.","Greetings. May the peace and mercy from Yah fill you.","May God bless you.","Know this first: We serve the Most High God."],
 		
-		"neutralHello": ["Greetings.", "May God's peace be on your people."],
-		"neutralLetsHearIt": ["Go on.","Speak.","Yes?"],
-		"neutralNo": ["My discernment tells me this is a bad idea. Therefore, no.","No.","I'm afraid not."],
-		"neutralYes": ["Yes.","May our dealings be like this one. Pleasurable.","That is very good."],
+		"neutralHello": ["Greetings.", "May God's peace be on your people.","May God bless you."],
+		"neutralLetsHearIt": ["Go on.","Speak.","Yes?","..."],
+		"neutralNo": ["No, thank you. May God bless you.","No.","I'm afraid not."],
+		"neutralYes": ["Yes.","I accept.","Thanks! May God bless you."],
 
-		"hateHello": ["It is you.","For what reason has the Devil visited me? Your presence is not welcomed.", "Repent before it's too late."],
-		"hateLetsHearIt": ["Speak.","...","'He seems to be silently waiting for you to speak'"],
-		"hateNo": ["Is this a snare from the enemy?","No.","I beg your pardon?"],
-		"hateYes": ["That's fine.","Alright...","It is only by God's power that I accept this."],
+		"hateHello": ["Ah, you.", "Who has called you here?","May God bless you with the mercy of repentance.","By God's mercy and grace, you stand before me today."],
+		"hateLetsHearIt": ["Speak.","...","'He seems to be silently waiting for you to speak'","What is it?"],
+		"hateNo": ["Is this a snare from the devil himself?","No.","With what mind have you thought up this thing?", "I cannot accept this."],
+		"hateYes": ["That's fine.","Alright...","It is only by God's grace that I accept this."],
 		
-		"afterPeace": "Thank you. Now, make peace with the Lord, or else.",
-		"tradeRequest": "The Lord lead me to this offer.",
+		"afterPeace": ["Thank you. Now, make peace with the Lord, or else.","Bless the LORD, for He has been merciful upon His people. And no, you are not the LORD."],
+		"tradeRequest": ["The Lord lead me to this offer.","Let us reason with each other.","Greetings! May the Lord's peace be upon you. Consider this request."],
 
-		"outerColor": [22,96,224],
+		"outerColor": [34, 26, 145],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Zion","Ur","Nazareth","Jerusalem","Israel","Ashkelon",Bethelem"","Beer-Sheba","Bethshean",
-			"Beirut","Canaan","Cana","Carchemish","Cyprus","Damascus","Ethiopia","Ophir","Petra","Persia","Sinai"]
+			"Beirut","Canaan","Cana","Carchemish","Cyprus","Damascus","Ethiopia","Ophir","Petra","Persia","Sinai","Jericho","Gilead"]
 	}
 ]
